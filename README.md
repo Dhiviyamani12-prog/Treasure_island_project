@@ -1,1 +1,7 @@
 # Treasure_island_project
+
+here is the flowchart of this project,
+
+https://app.diagrams.net/?lightbox=1&highlight=0000ff&edit=_blank&layers=1&nav=1&title=Treasure%20Island%20Conditional.drawio#Uhttps%3A%2F%2Fdrive.google.com%2Fuc%3Fid%3D1oDe4ehjWZipYRsVfeAx2HyB7LCQ8_Fvi%26export%3Ddownload#%7B%22pageId%22%3A%22C5RBs43oDa-KdzZeNtuy%22%7D
+
+kindly copy the above link and paste it to ur browser inorder to get the flowchart of this project.
